@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islem</h1>
 <h3 align="center">A passionate software developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z-e-e-e-d" alt="z-e-e-e-d" /></a> </p>
-
 <p>
   Passionate and detail-oriented developer specializing in desktop, game, and full stack development. Skilled in C#, WinForms, Unity, React, Tailwind CSS, Express.js, and MongoDB, with a strong focus on intuitive and secure user interfaces. Enthusiast in cybersecurity and ethical tech practices. Atheist and rational thinker, always eager to learn and collaborate, bringing creativity, logic, and technical expertise to every project.
 </p>
