@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z-e-e-e-d" alt="z-e-e-e-d" /></a> </p>
 
-- 🔭 I’m currently working on **sales point software**
-
-- 🌱 I’m currently learning **cyber security**
+<p>
+  Passionate and detail-oriented developer specializing in desktop, game, and full stack development. Skilled in C#, WinForms, Unity, React, Tailwind CSS, Express.js, and MongoDB, with a strong focus on intuitive and secure user interfaces. Enthusiast in cybersecurity and ethical tech practices. Atheist and rational thinker, always eager to learn and collaborate, bringing creativity, logic, and technical expertise to every project.
+</p>
 
 - 📫 How to reach me **bennecib.islem@gmail.com**
 
