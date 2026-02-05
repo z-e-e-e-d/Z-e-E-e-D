@@ -52,6 +52,3 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z-e-e-e-d&show_icons=true&locale=en&layout=compact" alt="z-e-e-e-d" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z-e-e-e-d&show_icons=true&locale=en" alt="z-e-e-e-d" /></p>
